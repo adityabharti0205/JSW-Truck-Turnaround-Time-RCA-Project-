@@ -50,4 +50,4 @@ These estimates represent a hypothetical scenario, not verified operational or f
 
 The dataset contains 1,500 synthetic truck trips with operational timestamps, loading durations, appointment statuses, transporters, shifts, and turnaround metrics.
 
-**Disclaimer:** This is a portfolio project using synthetic data. Findings and savings estimates should not be interpreted as actual JSW Cement operational results.
+**Disclaimer:** This is a portfolio project using synthetic data. Findings and savings estimates should not be interpreted as actual JSW Cement operational results as they dataset is inspired by the JSW's operational dataset.
